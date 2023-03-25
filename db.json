@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "john wick 4",
+    "stream": "Video/3.mp4",
+    "description": "The payback never stops",
+    "category": "thriller",
+    "img": "Images/img5.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Creed III",
+    "stream": "Video/1.mp4",
+    "description": "Anger begat anger and the hatred keeps growing",
+    "category": "scify", 
+    "img": "Images/img1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "COD MW II",
+    "stream": "Video/2.mp4",
+    "description": "It takes violence and timing",
+    "category": "action", 
+    "img": "Images/img3.jpg"
+  }, 
+  {
+    "id": 4,
+    "name": "Fast X",
+    "stream": "Video/4.mp4",
+    "description": "Buckle your seat belt cause it is about to get....",
+    "category": "action", 
+    "img": "Images/img6.jpg"
+  }
+]
