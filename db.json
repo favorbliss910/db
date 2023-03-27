@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Last Night in Soho",
+    "name": "last night in soho",
     "stream": "AcVnFrxjPjI",
     "description": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
     "category": "tragedy",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "name": "American Psycho",
+    "name": "american psycho",
     "stream": "81mibtQWWBg",
     "description": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
     "category": "scify", 
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "name": "Cocaine Bear",
+    "name": "cocaine bear",
     "stream": "e-I-YCy7yKY",
     "description": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate, Hawk, to take down criminals.",
     "category": "comedy",
@@ -31,7 +31,7 @@
   }, 
   {
     "id": 4,
-    "name": "Stuber",
+    "name": "stuber",
     "stream": "i5l6a5RiR1E",
     "description": "A detective recruits his Uber driver into an unexpected night of adventure.",
     "category": "thriller",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "name": "The Contractor",
+    "name": "the contractor",
     "stream": "BJnK-xRS1WM",
     "description": "After being involuntarily discharged from the U.S. Special Forces, James Harper decides to support his family by joining a private contracting organization alongside his best friend and under the command of a fellow veteran. Overseas on a covert mission, Harper must evade those trying to kill him while making his way back home.",
     "category": "action",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "name": "The Good Nurse",
+    "name": "the good nurse",
     "stream": "DQL3_x8Cqjc",
     "description": "Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth in this gripping thriller based on true events.",
     "category": "tragedy",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "name": "Clean",
+    "name": "clean",
     "stream": "9sS3mJW1-EM",
     "description": "Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past",
     "category": "tragedy",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "name": "Red Notice",
+    "name": "red notice",
     "stream": "hAvKekxaXco",
     "description": "An Interpol-issued Red Notice is a global alert to hunt and capture the world’s most wanted. But when a daring heist brings together the FBI’s top profiler and two rival criminals, there’s no telling what will happen.",
     "category": "action",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "name": "Point Blank",
+    "name": "point blank",
     "stream": "hIMJ0_S-x40",
     "description": "An ER nurse and a career criminal are forced into an unlikely partnership in taking down a ring of corrupt cops threatening the lives of both their families.",
     "category": "action",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "name": "The Devil Conspiracy ",
+    "name": "the devil conspiracy ",
     "stream": "PznXx8NHwpc",
     "description": "The hottest biotech company in the world has discovered they can clone history’s most influential people from the dead. Now, they are auctioning clones of Michelangelo, Galileo, Vivaldi, and others for tens of millions of dollars to the world’s ultra-rich. But when they steal the Shroud of Turin and clone the DNA of Jesus Christ, all hell breaks loose.",
     "category": "action",
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "name": "Run Sweetheart Run",
+    "name": "run sweetheart run",
     "stream": "4FvPNK_6hPw",
     "description": "A woman runs for her life though the streets of Los Angeles after her blind date suddenly turns violent.",
     "category": "thriller",
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "name": "Wrath of Man",
+    "name": "wrath of man",
     "stream": "my4eXuV0MbI",
     "description": "The plot follows H, a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles",
     "category": "thriller",
@@ -131,7 +131,7 @@
   },
   {
     "id": 14,
-    "name": "Survive the Night",
+    "name": "survive the night",
     "stream": "TfTNGqXBwHY",
     "description": "A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.",
     "category": "tragedy",
@@ -141,7 +141,7 @@
   },
   {
   "id": 15,
-  "name": "Terminator: Dark Fate",
+  "name": "terminator dark fate",
   "stream": "o-3_aTo8sTM",
   "description": "An augmented human and Sarah Connor must stop an advanced liquid Terminator, from hunting down a young girl, whose fate is critical to the human race.",
   "category": "action",
@@ -151,7 +151,7 @@
 },
 {
   "id": 16,
-  "name": "The Forgiven",
+  "name": "the forgiven",
   "stream": "hAV6kfDt9Zg",
   "description": "Over a weekend in the High Atlas Mountains of Morocco, a random accident reverberates through the lives of both the local Muslims and Western visitors to a house party in a grand villa.",
   "category": "scifi",
@@ -161,7 +161,7 @@
 },
 {
   "id": 17,
-  "name": "Iron Man 3",
+  "name": "iron man 3",
   "stream": "Ke1Y3P9D0Bc",
   "description": "Tony Stark encounters a formidable foe called the Mandarin. After failing to defeat his enemy, Tony embarks on a journey of self-discovery as he fights against the powerful Mandarin.",
   "category": "action",
@@ -171,7 +171,7 @@
 },
 {
   "id": 18,
-  "name": "John Wick 2",
+  "name": "john wick 2",
   "stream": "XGk2EfbD_Ps",
   "description": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
   "category": "action",
